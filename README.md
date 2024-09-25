@@ -2,8 +2,7 @@
 This project showcases the development of a **Credit Card Weekly Dashboard** in Power BI, designed to provide insights into credit card transaction patterns, customer behavior, and key financial performance metrics.
 
 ## Project Overview
-- **Transactions Analyzed**: 10,000+ credit card transactions
-- **Tools Used**: SQL, Power BI, DAX
+This project focused on the development of a dynamic and interactive dashboard for credit card transactions, leveraging SQL and Power BI to provide comprehensive insights into transaction data. The project involved the integration of over 100,000 credit card transactions, advanced data cleaning and transformation, and the creation of meaningful visualizations to support business decision-making.
 
 ## Key Features
 1. **Data Integration & Transformation**:
