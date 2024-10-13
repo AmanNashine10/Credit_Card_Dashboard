@@ -5,7 +5,7 @@ This project focused on the development of a dynamic and interactive dashboard f
 
 ## Key Features
 1. **Data Integration & Transformation**:
-   - Imported and integrated 100,000+ credit card transactions from multiple SQL databases.
+   - Imported and integrated 10,000+ credit card transactions from multiple SQL databases.
    - Cleaned and transformed the data using SQL queries with an accuracy of 99.5%.
    
 2. **Interactive Power BI Dashboard**:
